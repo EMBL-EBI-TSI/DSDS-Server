@@ -6,7 +6,7 @@ databases==0.2.5
 aiosqlite==0.10.0
 python-dateutil==2.8.0
 python-dotenv==0.10.3
-asyncpg==0.18.2
+asyncpg==0.21.0
 psycopg2==2.8.3
 globus_sdk==1.8.0
 starlette==0.12.9
