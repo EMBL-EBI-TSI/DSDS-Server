@@ -1,6 +1,6 @@
 uvicorn==0.11.7
 fastapi==0.42.0
-pydantic==0.32.2
+pydantic==1.6.2
 ujson==1.35
 databases==0.2.5
 aiosqlite==0.10.0
