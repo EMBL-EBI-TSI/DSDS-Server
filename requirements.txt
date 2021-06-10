@@ -1,5 +1,5 @@
 uvicorn==0.11.7
-fastapi==0.42.0
+fastapi==0.65.2
 pydantic==0.32.2
 ujson==1.35
 databases==0.2.5
